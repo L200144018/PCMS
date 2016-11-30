@@ -1,0 +1,101 @@
+Name : Muhammad Satrio Sujarwo
+NIM : L200144018
+
+Modules:
+
+Administration Menu
+https://www.drupal.org/project/admin_menu
+Make drupal administration menu toolbar to become more fast access with dropdown form.
+
+Coffee
+https://www.drupal.org/project/coffee
+Shortcut key to access drupal administration menu.
+
+Jquery Update
+https://www.drupal.org/project/jquery_update
+(Optional) Upgrades the version of jQuery in Drupal core to a newer version of jQuery.
+
+Bootstrap Library
+https://www.drupal.org/project/bootstrap_library
+(Optional) To manage bootstrap source file.
+
+CKEditor
+https://www.drupal.org/project/ckeditor
+Add WYSIWYG HTML Editor / HTML visual editor to drupal text field.
+
+IMCE
+https://www.drupal.org/project/imce
+Add image/file uploader and browser to drupal.
+
+Empty Front Page
+https://www.drupal.org/project/empty_front_page
+This module modifies drupal behavior to show no default content on the frontpage and only display the blocks.
+
+Special menu items
+https://www.drupal.org/project/special_menu_items
+This module provides placeholder and separator menu items. A placeholder is a menu item which is not a link. A separator menu item is something like "-------" which is not linking anywhere but merely a mean to structure menus and "separate" menu items visually.
+
+Pathauto
+https://www.drupal.org/project/pathauto
+This module automatically generates URL/path aliases for various kinds of content (nodes, taxonomy terms, users) without requiring the user to manually specify the path alias. This allows you to have URL aliases like /category/my-node-title instead of /node/123. The aliases are based upon a "pattern" system that uses tokens which the administrator can change.
+
+Token
+https://www.drupal.org/project/token
+(Required by Pathauto module) Provides additional tokens not supported by core (most notably fields), as well as a UI for browsing tokens.
+
+Module Filter
+https://www.drupal.org/project/module_filter
+This module is to find, search, activate, deactivate, manage drupal module easier.
+
+Views
+https://www.drupal.org/project/views
+To create views for drupal
+
+Chaos tool suite (ctools)
+https://www.drupal.org/project/ctools
+(Required by Views module) This suite is primarily a set of APIs and tools to improve the developer experience. It also contains a module called the Page Manager whose job is to manage pages. In particular it manages panel pages, but as it grows it will be able to manage far more than just Panels.
+
+Views Bootstrap
+https://www.drupal.org/project/views_bootstrap
+This module is to create components following the theme structure of the Bootstrap framework all within the configuration settings of the powerful Views module.
+
+DraggableViews
+https://www.drupal.org/project/draggableviews
+This module makes rows of a view "draggable" which means that they can be rearranged by Drag'n'Drop.
+
+Entity API
+https://www.drupal.org/project/entity
+This module extends the entity API of Drupal core in order to provide a unified way to deal with entities and their properties. Additionally, it provides an entity CRUD controller, which helps simplifying the creation of new entity types.
+
+CKEditor Link - A plugin to easily create links to Drupal internal paths
+https://www.drupal.org/project/ckeditor_link
+This module allows to easily create links to Drupal internal paths through CKEditor's Link button and dialog
+
+Block Class
+https://www.drupal.org/project/block_class
+This module allows users to add classes to any block through the block's configuration interface.
+
+Plupload integration
+https://www.drupal.org/project/plupload
+This module allows users to upload multiple images.
+
+Devel
+https://www.drupal.org/project/devel
+This module provide helper functions for Drupal developers and inquisitive admins.
+
+Image URL Formatter
+https://www.drupal.org/project/image_url_formatter
+This module add a url formatter for image field. Then you can output image url directly.
+
+Equal Heights jQuery
+https://www.drupal.org/project/equalheights
+This module implements a jQuery Equal Heights plugin that can equalize the height of the elements of the specified class.
+
+Libraries API
+https://www.drupal.org/project/libraries
+(Requited by Equal Heights jQuery module) The common denominator for all Drupal modules/profiles/themes that integrate with external libraries.
+
+---------------------------------------------------------------------------
+
+source :- www.drupal.org
+	- www.google.com
